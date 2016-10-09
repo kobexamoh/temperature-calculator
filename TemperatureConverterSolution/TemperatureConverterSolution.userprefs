@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{E26E0C19-E38C-4B73-A930-A168FD8AB60D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TemperatureConverter/Program.cs">
+    <Files>
+      <File FileName="TemperatureConverter/Program.cs" Line="16" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.TemperatureConverter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

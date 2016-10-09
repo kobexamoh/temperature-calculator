@@ -1,0 +1,5 @@
+/Users/kobexamoh/Projects/TemperatureConverterSolution/TemperatureConverter/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/kobexamoh/Projects/TemperatureConverterSolution/TemperatureConverter/bin/Debug/TemperatureConverter.exe.mdb
+/Users/kobexamoh/Projects/TemperatureConverterSolution/TemperatureConverter/bin/Debug/TemperatureConverter.exe
+/Users/kobexamoh/Projects/TemperatureConverterSolution/TemperatureConverter/obj/x86/Debug/TemperatureConverter.exe
+/Users/kobexamoh/Projects/TemperatureConverterSolution/TemperatureConverter/obj/x86/Debug/TemperatureConverter.exe.mdb
